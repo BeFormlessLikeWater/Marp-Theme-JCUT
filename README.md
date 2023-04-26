@@ -9,7 +9,9 @@
 2. [@Tseing](https://github.com/Tseing) 的 [Marp Theme for NKU](https://github.com/Tseing/Marp-Theme-NKU) 主题，对此表示由衷的感谢。
 
 
-点击[这里](https://github.com/Tseing/Marp-Theme-NKU/blob/master/docs/NKUmarp.pdf)的 pdf 文件可以看到完整的主题模版。
+点击[这里](https://github.com/BeFormlessLikeWater/Marp-Theme-JCUT/tree/main/docs/JCUTmarp.pdf)的 pdf 文件可以看到4:3的主题模版。
+
+点击[这里](https://github.com/BeFormlessLikeWater/Marp-Theme-JCUT/tree/main/docs/JCUTmarp16-9.pdf)的 pdf 文件可以看到16:9的主题模版。
 
 该主题的样式定义在 `./themes/JCUT.css` 中，如果你掌握 css 语法，可以尽情修改里面的样式。针对于某一页的样式，请使用 Marp 提供的局部样式修改。
 
@@ -50,12 +52,12 @@ Marp-Theme-JCUT
 
 # Some Pictures
 
-![page 1](https://github.com/Tseing/Marp-Theme-JCUT/raw/master/images/example/page1.png)
+![page 1](https://github.com/BeFormlessLikeWater/Marp-Theme-JCUT/tree/main/images/example/page1.jpg)
 
-![page 2](https://github.com/Tseing/Marp-Theme-JCUT/raw/master/images/example/page2.png)
+![page 2](https://github.com/BeFormlessLikeWater/Marp-Theme-JCUT/tree/main/images/example/page2.jpg)
 
-![page 3](https://github.com/Tseing/Marp-Theme-JCUT/raw/master/images/example/page3.png)
+![page 3](https://github.com/BeFormlessLikeWater/Marp-Theme-JCUT/tree/main/images/example/page3.jpg)
 
-![page 4](https://github.com/Tseing/Marp-Theme-JCUT/raw/master/images/example/page4.png)
+![page 4](https://github.com/BeFormlessLikeWater/Marp-Theme-JCUT/tree/main/images/example/page4.jpg)
 
-![page 5](https://github.com/Tseing/Marp-Theme-JCUT/raw/master/images/example/page5.png)
+![page 5](https://github.com/BeFormlessLikeWater/Marp-Theme-JCUT/tree/main/images/example/page5.jpg)
